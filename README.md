@@ -2,6 +2,8 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=hi,我是王媚天，欢迎来到我的GitHub首页)
 
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Wang+Meitian;Welcome+to+my+GitHub+profile)
+
 欢迎来到我的 GitHub 首页 😊
 
 ## 关于我
