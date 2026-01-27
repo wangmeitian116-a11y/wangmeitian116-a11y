@@ -1,5 +1,7 @@
 # 你好，我是 王媚天 👋
 
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=hi,我是王媚天，欢迎来到我的GitHub首页)
+
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)
 
 欢迎来到我的 GitHub 首页 😊
