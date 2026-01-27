@@ -24,23 +24,8 @@
 ## GitHub使用语言统计
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangmeitian116-a11y)
 
-## GitHub徽章
-![trophy](https://github-profile-trophy.vercel.app/?username=wangmeitian116-a11y)
-
-## GitHub访客徽章
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=page_id&left_color=green&right_color=red)
-
-## GitHub活动统计图
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/api?username=yourusername)
-
-## GitHub 连续打卡
-![GitHub Streak](https://streak-stats.demolab.com?user=wangmeitian116-a11y)
-
 ## 社交统计
 ![JustSong's LeetCode Stats](https://stats.justsong.cn/api/leetcode?username=wangmeitian116-a11y)
-
-## Star 趋势
-![Star History](https://star-history.t9t.io/?user=wangmeitian116-a11y)
 
 ## 贪吃蛇
 <picture>
